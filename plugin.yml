@@ -1,0 +1,7 @@
+name: VanishPlayersSimple
+main: net.imandreleandro.vanishstaffsimple.Main
+version: 1.0
+author: ImAndreLeandro
+commands:
+  vanish:
+  v:
