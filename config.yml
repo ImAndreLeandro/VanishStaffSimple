@@ -1,0 +1,5 @@
+Permission: 'vanish.use'
+No_Permission:
+  - '&cNo permission.'
+
+Vanish_Message: '&aYou are vanish to others!'
